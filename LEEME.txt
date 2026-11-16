@@ -1,0 +1,10 @@
+JUGÁ SEGURA — SITIO EDUCATIVO
+
+1. Abrí index.html en tu navegador para ver la página principal.
+2. Cada tarjeta lleva a una página HTML distinta.
+3. Todos los archivos HTML usan styles.css para la apariencia.
+4. La imagen de portada es assets/campo.svg, incluida y funciona sin internet.
+5. En vendajes.html hay espacios reservados para los videos; aún no hay videos reales.
+6. Para publicar gratis, podés subir toda la carpeta a GitHub Pages o Netlify.
+7. El contenido se adaptó del documento de intervención entregado. Revisá el texto clínico con la supervisión académica antes de publicar.
+8. Las fuentes bibliográficas se mencionan de forma abreviada; el documento original contiene las referencias completas.
